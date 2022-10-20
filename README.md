@@ -10,6 +10,6 @@ In this work, a single image dehazing method that improves the haze removal capa
 
 Please visit the following pages for the original CEEF and SSIF implementations. 
 
-The code for CEEF is kindly shared at: https://github.com/xiaohuiben/CEEF-TMM-2021 
+The codes for CEEF: https://github.com/xiaohuiben/CEEF-TMM-2021 
 
-The code for SSIF is kindly shared at: https://github.com/fergaletto/SSIF
+The codes for SSIF: https://github.com/fergaletto/SSIF
