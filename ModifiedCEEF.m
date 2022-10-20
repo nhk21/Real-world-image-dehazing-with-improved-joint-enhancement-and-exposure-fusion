@@ -1,5 +1,7 @@
 function result = ModifiedCEEF(img)
 
+% Original CEEF code can be found in: https://github.com/xiaohuiben/CEEF-TMM-2021
+
 img_haze = im2double(img);
 [H, W, C] = size(img_haze);
 I = zeros(H, W, C, 5);
