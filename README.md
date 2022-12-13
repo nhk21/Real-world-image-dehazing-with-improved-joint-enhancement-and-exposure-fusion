@@ -2,7 +2,7 @@
 
 This package contains the MATLAB code which is associated with the following work. Please cite the paper if you use the code. 
 
-N.H. Kaplan. "Real-World Image Dehazing with Improved Joint Enhancement and Exposure Fusion" 
+N. H. Kaplan, Real-world image dehazing with improved joint enhancement and exposure fusion, Journal of Visual Communication and Image Representation 90 (2023) 103720.
 
 *ABSTRACT*
 
