@@ -1,11 +1,12 @@
 
 clc;clear all;close all;
 
-
+%% Parameters for SSIF
 radius = 5;
 Epsilon = .1;
 kappa = 2 ; %kappa=1.2 for synthetic images
 scale = 1;
+%%Parameters for SSIF
 
 InputPath = '.\InputImages\';
 FileName = dir(strcat(InputPath, '*.png'));
