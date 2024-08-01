@@ -1,12 +1,14 @@
 
 clc;clear all;close all;
 
-%% Parameters for SSIF
+%% Parameters for SSIF 
 radius = 5;
 Epsilon = .1;
 kappa = 2 ; %kappa=1.2 for synthetic images
 scale = 1;
-%%Parameters for SSIF
+
+%% For Synthetic Images modify the CLAHE limits in ModifiedCEEF.m file
+
 
 InputPath = '.\InputImages\';
 FileName = dir(strcat(InputPath, '*.png'));
